@@ -15,7 +15,7 @@ A Laravel-based job posting dashboard with full CRUD functionality, built with B
 
 ## Tech Stack
 
-- **Backend**: Laravel 10+
+- **Backend**: Laravel 12
 - **Frontend**: HTML, CSS, Bootstrap 5, Vanilla JavaScript
 - **Database**: MySQL/SQLite
 - **HTTP Client**: Axios
@@ -34,8 +34,8 @@ A Laravel-based job posting dashboard with full CRUD functionality, built with B
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd job-dashboard
+git clone https://github.com/Jyonsi1607/Job-Posting-Dashboard
+cd Job-Posting-Dashboard
 ```
 
 2. Install PHP dependencies
